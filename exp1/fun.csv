@@ -1,0 +1,4 @@
+id,value,statuse,name,timestamp
+1,9.5,TRUE,abc,11:11:00
+2,8.1,FALSE,xyz,12:32:33
+3,3.3,TRUE,ijd,09:45:12

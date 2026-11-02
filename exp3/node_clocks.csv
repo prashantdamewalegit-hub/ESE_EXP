@@ -1,0 +1,6 @@
+node_id,clock_time_sec,is_faulty
+Master,3600,FALSE
+N1,3605,FALSE
+N2,3595,FALSE
+N3,4200,TRUE
+N4,3602,FALSE
